@@ -1,0 +1,5 @@
+{
+"users": [
+  { "id": 1, "username": "wacek", "password_hash": "7c2a9e1a170ac6ffc357325e3960cb0c5cf8718c", "manage_users": true, "manage_pools": [1, 2, 3] }
+  ]
+}
